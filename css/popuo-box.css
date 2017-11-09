@@ -1,4 +1,4 @@
-/* Styles for dialog window */
+
 #small-dialog,#small-dialog2,#small-dialog3,#small-dialog4{
 	background: #FFF;
 	padding:20px;
@@ -37,9 +37,7 @@
 }
 /**
 
-/**
- * Fade-zoom animation for first dialog
- */
+Animation Zoom
 
 /* start state */
 .my-mfp-zoom-in #small-dialog {
