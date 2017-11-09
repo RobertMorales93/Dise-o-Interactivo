@@ -99,7 +99,7 @@ p.review{
 	margin:0.8em 0;	
 }
 a.video {
-  background: #2e64fe;
+  background: #6e6e6e;
   font-size: 1.25em;
   text-decoration: none;
   padding: 12px 25px 12px 15px;
@@ -395,7 +395,7 @@ i.contact1 {
 	min-height:480px;
 }
 .more-reviews{
-	background:#6e6e6e;
+	background:#FBFBEF;
 	padding:3em 0;
 }
 .news {
