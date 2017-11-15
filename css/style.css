@@ -43,7 +43,8 @@ label{
 	background: rgba(255, 255, 255, 0.47);
 }
 .header {
-	background: url('http://www.powerpointhintergrund.com/uploads/2017/09/banner-background-blue--hipm--the-hippest-pics-20.jpeg') no-repeat 0px 0px;
+	background-image: url("header-bg.jpg");
+	background: url('') no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
